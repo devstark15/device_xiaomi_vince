@@ -25,3 +25,7 @@ include $(LOCAL_PATH)/product/*.mk
 
 # Inherit proprietary files
 $(call inherit-product, vendor/xiaomi/vince/vince-vendor.mk)
+
+# Doze
+PRODUCT_PACKAGES += \
+    XiaomiDoze
