@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/aosp_vince.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/aoscp.mk
